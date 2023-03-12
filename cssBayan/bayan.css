@@ -98,14 +98,7 @@ body {
     max-inline-size: 100%;
     block-size: auto;
     opacity: 0;
-    transition: all .7s ease-in-out;
-}
-
-/* Accordion hover */
-
-.meme__label:hover {
-    max-height: 100rem;
-    transition: all .7s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 /* Item checked */
